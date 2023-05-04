@@ -1,4 +1,4 @@
-name: Book shop
+name: book_shop
 description: Demo app to show books and can be added to cart.
 publish_to: 'none'
 
